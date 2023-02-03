@@ -25,6 +25,7 @@ we create a google ID For You USE
 Google ID Needed For Chrome Remote Desktop
 Chrome Remote Desktop PIN is 123456 For All
 
+
 USE Windows [ Password or Password No ]
 
 Windows User
@@ -36,21 +37,27 @@ Password [ Can Be Skip ]
 ###########
 VM Creating
 ###########
+
 RAM 2GB 4GB 6GB 8GB 11GB
  Recommend RAM is 4GB or 6GB
- ###########
- Space For VM DISK
+
+###########
+
+Space For VM DISK
  
  64GB 128GB 210GB
  
  Recommend is 128GB
- #######
- This Can Games [Yes]
+
+#######
+
+This Can Games [Yes]
  Web Game Or Cloud or Light Way Games
  
  This Run 3D [Yes]
  Full 3D
  Can YouTube in 4K [Yes]
+ 
  ##########
  
  And Now You Have Windows AnyWhere For Free
