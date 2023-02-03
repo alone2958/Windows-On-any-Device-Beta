@@ -64,3 +64,7 @@ This Can Games [Yes]
  And Now You Have Windows AnyWhere For Free
  Needed WI-FI To Run Chrome Remote Desktop
  
+ ##########
+
+Chrome Remote Desktop [Recommend]
+AnyDesk [Not Recommend]
