@@ -24,3 +24,9 @@ Google ID Needed For Chrome Remote Desktop
 Chrome Remote Desktop PIN is 123456 For All
 
 USE Windows [ Password or Password No ]
+
+Windows User
+
+Name For Windows User
+
+Password [ Can Be Skip ]
