@@ -40,6 +40,7 @@ VM Creating
 ###########
 
 RAM 2GB 4GB 6GB 8GB 11GB
+ 
  Recommend RAM is 4GB or 6GB
 
 ###########
@@ -57,6 +58,7 @@ This Can Games [Yes]
  
  This Run 3D [Yes]
  Full 3D
+ 
  Can YouTube in 4K [Yes]
  
  ##########
@@ -68,4 +70,6 @@ This Can Games [Yes]
 
 Chrome Remote Desktop [Recommend]
 
-AnyDesk [Not Recommend]
+AnyDesk [Recommend-for-Any-OS]
+
+Google ID is Not Needed For AnyDesk
