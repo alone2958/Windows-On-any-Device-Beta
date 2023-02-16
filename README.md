@@ -1,7 +1,7 @@
 
 # Windows-On-any-Device-Beta
 
-1. Join our Discord [https://discord.gg/HdG6Kpkp]
+1. Join our Discord [ https://discord.gg/VYAng6dvbx ] [Join Discord must do for creating VM]
 
 ###############
 We Download ISO
