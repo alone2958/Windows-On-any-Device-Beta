@@ -19,8 +19,7 @@ Recommended Windows
 ################
 
 installing Windows
-Gaming For VM We Recommend VMware
-Work For virtualbox or vmware
+VMware By Default for Faster VM
 
 we create a google ID For You USE
 Google ID Needed For Chrome Remote Desktop
@@ -51,7 +50,8 @@ Space For VM DISK
  
  Recommend is 128GB
 
-#######
+####### FIREWORKS FOR VM ########
+
 Firework XVM NEW
 
 1. You Can Have 16GB Of RAM
@@ -80,7 +80,21 @@ Windows 11
 Windows 10
 Windows 8.1
 
+############
 
+VM A10P [By VMware]
+
+SNAP OS
+
+Space is 256
+
+RAM UP TO 8GB
+
+CORES on 2
+
+Wl-FI is NAT
+
+SYSTEM IS NOT FAST
 #######
 This Can Games [Yes]
  Web Game Or Cloud or Light Way Games
