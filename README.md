@@ -52,7 +52,36 @@ Space For VM DISK
  Recommend is 128GB
 
 #######
+Firework XVM NEW
 
+1. You Can Have 16GB Of RAM
+
+2. You Can Space Up To 512GB
+
+3. is Much Faster
+
+4. Cores On VM Up 8
+
+5. WI-FI is Fast On VMnet8 By Caty.xyz
+
+6. ARM OR X64
+
+Systems OS On Arm
+
+x64
+Windows 11
+Windows 10
+Windows 8.1
+macOS
+Linux
+
+Arm64
+Windows 11
+Windows 10
+Windows 8.1
+
+
+#######
 This Can Games [Yes]
  Web Game Or Cloud or Light Way Games
  
