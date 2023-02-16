@@ -95,12 +95,15 @@ CORES on 2
 Wl-FI is NAT
 
 SYSTEM IS NOT FAST
+
 #######
+
 This Can Games [Yes]
  Web Game Or Cloud or Light Way Games
  
  This Run 3D [Yes]
- Full 3D
+ 
+ if on xvm is Full 3D on intel HD 620
  
  Can YouTube in 4K [Yes]
  
